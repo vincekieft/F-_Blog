@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PO_Paradigma", "PO_Paradigma\PO_Paradigma.fsproj", "{1D23A944-0BCF-41AA-8B46-09AD4F65C9F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D23A944-0BCF-41AA-8B46-09AD4F65C9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D23A944-0BCF-41AA-8B46-09AD4F65C9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D23A944-0BCF-41AA-8B46-09AD4F65C9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D23A944-0BCF-41AA-8B46-09AD4F65C9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {370F41AB-8015-48B9-ADC4-63B724ACD3D7}
+	EndGlobalSection
+EndGlobal
